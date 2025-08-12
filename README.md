@@ -1,4 +1,4 @@
-# 🌟 Haneef Ur Rahman - Professional Portfolio
+# 🌟 Haneef Ur Rahman - Portfolio
 
 **A modern, responsive portfolio website** showcasing my skills, projects, and professional journey. Built with a clean design using **HTML5, CSS3, Bootstrap 5, and JavaScript**.
 
